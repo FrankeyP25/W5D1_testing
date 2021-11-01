@@ -9,3 +9,4 @@ end
 puts sum([1,2,3,4,5])
 puts add_str("hello ", "word")
 
+puts "hello"
